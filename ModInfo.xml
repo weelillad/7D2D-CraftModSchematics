@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="weelillad_CraftModSchematics" />
+        <Description value="Unlock crafting of mod schematics when Yeah Science is 2 levels above unlocking usage of the mod. E.g. crafting Tier 1 schematics requires Yeah Science level 3." />
+        <Author value="weelillad" />
+        <Version value="1.0.0" />
+    </ModInfo>
+</xml>
